@@ -1,4 +1,4 @@
-# GraphQL Crash Course - Build an Expense Tracker App
+# Build an Expense Tracker App
 
 ![Demo App](./Demo.png)
 
